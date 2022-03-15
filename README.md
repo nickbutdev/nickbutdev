@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Nickunj</h1>
 <h3 align="center">A school kid who enjoys Programming,Games and Music</h3>
-<img src= "https://nickunjgupta.me/imgs/girlyshoes.jpg" alt="nick" /> </img>
+
 <p align="left"> <img src="https://raw.githubusercontent.com/laynH/Anime-Girls-Holding-Programming-Books/master/C%2B%2B/Sakura_Nene_CPP.jpg" alt="nickbutdev" /> </p>
 
 <p align="left"> <a href="https://twitter.com/nickkkunjj" target="blank"><img src="https://img.shields.io/twitter/follow/nickkkunjj?logo=twitter&style=for-the-badge" alt="nickkkunjj" /></a> </p>
